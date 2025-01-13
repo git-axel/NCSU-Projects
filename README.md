@@ -18,7 +18,7 @@ Overview of key projects I’ve worked on during my Computer Science coursework,
 - **Language**: C  
 - **Skills**: Data structures, generic programming, memory management, CLI  
 - **Highlights**: Implements a generic queue using a linked list that supports various data types like integers, real numbers, and strings.  
-- **Testing**: Tested with a `test.sh` script ensuring robustness and correctness.  
+- **Testing**: Tested with a `test.sh` script provided by teaching staff.
 - **Future Improvements**: Additional queue operations, enhanced error handling, performance optimization.
 
 ---
@@ -36,7 +36,7 @@ Overview of key projects I’ve worked on during my Computer Science coursework,
 - **Language**: C  
 - **Skills**: Text processing, regular expressions, error handling, CLI  
 - **Highlights**: Searches for identifiers in source files, prints lines containing identifiers, and highlights occurrences. Supports options for line numbers and surrounding context.  
-- **Testing**: Comprehensive tests using `test.sh` to ensure accurate and reliable identifier detection.  
+- **Testing**: Comprehensive tests using the provided `test.sh` to ensure accurate and reliable identifier detection.  
 - **Future Improvements**: Performance optimization, multi-file search, GUI development.
 
 ---
@@ -56,6 +56,7 @@ Overview of key projects I’ve worked on during my Computer Science coursework,
 - **Highlights**: Calculates distances between landmarks in a park and determines optimal first aid locations using a Skip List Map data structure.  
 - **Testing**: Validated using JUnit test cases and runtime performance experiments.  
 - **Future Improvements**: Implementing a non-recursive algorithm for improved performance.
+- **Acknowledgements**: I would like to thank Veerendra Gottiveti for collaborating with me on this project to design the System Test Plan, and original UML diagram, as well as our experimental report.
 
 ---
 
